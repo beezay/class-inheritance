@@ -1,0 +1,48 @@
+{
+    "Employees": [{
+            "userId": "one",
+            "jobTitleName": "Developer",
+            "firstName": "Raj",
+            "lastName": "Chaudhary",
+            "preferredFullName": "Raj Chaudhary",
+            "employeeCode": "H9",
+            "region": "NP",
+            "phoneNumber": "123456789",
+            "emailAddress": "raj@test.com"
+        },
+        {
+            "userId": "two",
+            "jobTitleName": "Developer",
+            "firstName": "Sagar",
+            "lastName": "Shrestha",
+            "preferredFullName": "Sagar Shrestha",
+            "employeeCode": "A2",
+            "region": "BKT",
+            "phoneNumber": "9849782512",
+            "emailAddress": "sagar@test.com"
+        }
+    ],
+    "Employee": [{
+        "userId": "one",
+        "jobTitleName": "Manager",
+        "firstName": "Ashok",
+        "lastName": "Ganika",
+        "preferredFullName": "Ashok Ganika",
+        "employeeCode": "H9",
+        "region": "KTM",
+        "phoneNumber": "123456789",
+        "emailAddress": "ashok@test.com"
+    },
+    {
+        "userId": "two",
+        "jobTitleName": "Officer",
+        "firstName": "Nabin",
+        "lastName": "Shahi",
+        "preferredFullName": "Nabin Shahi",
+        "employeeCode": "A2",
+        "region": "GNB",
+        "phoneNumber": "9800052134",
+        "emailAddress": "nabin@test.com"
+    }
+]
+}

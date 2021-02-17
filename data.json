@@ -1,0 +1,52 @@
+{
+    "Employee": [{
+            "userId": 1,
+            "jobTitleName": "Developer",
+            "firstName": "Raj",
+            "lastName": "Chaudhary"
+        },
+        {
+            "userId": 2,
+            "jobTitleName": "Developer",
+            "firstName": "Sagar",
+            "lastName": "Shrestha"
+        },
+        {
+            "userId": 3,
+            "jobTitleName": "QA",
+            "firstName": "Ashok",
+            "lastName": "Ganika"
+        },
+        {
+            "userId": 4,
+            "jobTitleName": "Jr Officer",
+            "firstName": "Nabin",
+            "lastName": "Shahi"
+        }
+    ],
+    "Employers": [{
+        "userId": "One",
+        "jobTitleName": "Manager",
+        "firstName": "Ashok",
+        "lastName": "Ganika"
+    },
+    {
+        "userId": "Two",
+        "jobTitleName": "Asst Manager",
+        "firstName": "Nabin",
+        "lastName": "Shahi"
+    },
+    {
+        "userId": "Three",
+        "jobTitleName": "Sales Head",
+        "firstName": "Mukesh",
+        "lastName": "Dhunghana"
+    },
+    {
+        "userId": "Four",
+        "jobTitleName": "CTO",
+        "firstName": "Asish",
+        "lastName": "Chhetri"
+    }
+]
+}
